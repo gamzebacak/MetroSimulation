@@ -46,4 +46,9 @@ A*, süre bazlı en kısa rotayı bulmada etkilidir çünkü her adımda en dü�
 
 ## Örnek Senaryolar:
 Aşağıdaki test senaryoları metro ağı üzerinde çalıştırılmıştır.
+
 ![Örnek Senaryolar](https://raw.githubusercontent.com/gamzebacak/MetroSimulation/399aeddba67b60e0e2624c871960704327c339a8/Test%20Sonu%C3%A7lar%C4%B1.jpeg)
+
+## Çalıştırma Örneği:
+
+![Örnek Kod]()
