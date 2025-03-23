@@ -52,3 +52,7 @@ Aşağıdaki test senaryoları metro ağı üzerinde çalıştırılmıştır.
 ## Çalıştırma Örneği:
 
 ![Örnek Kod](https://github.com/gamzebacak/MetroSimulation/blob/main/%C3%87al%C4%B1%C5%9Ft%C4%B1rma%20%C3%96rne%C4%9Fi.jpeg?raw=true)
+
+Bu kod, "Kızılay" ve "AŞTİ" istasyonları arasında en az aktarmalı rotayı döndürür.
+
+## Sonuçlar: Test sonuçlarına göre, BFS en az aktarmalı rota belirlemede başarılı olurken, A* algoritması süre bazlı en iyi rotayı bulmada etkili olmuştur. Proje, büyük metro ağlarında da çalışabilir şekilde optimize edilmiştir.
