@@ -12,7 +12,7 @@ Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 ## collections.defaultdict: Metro ağındaki istasyonları ve hatları organize etmek için kullanılmıştır.
 ## collections.deque: Genişlik Öncelikli Arama (BFS) algoritmasında kuyruk yapısı olarak kullanılmıştır.
 ## heapq: En hızlı rotayı hesaplamak için kullanılan A* algoritmasında öncelik kuyruğu (priority queue) oluşturmak amacıyla kullanılmıştır.
-## typing: Fonksiyonların dönüş değerlerini ve parametre türlerini belirtmek için kullanılmıştır.
+
 
 ## 3. Algoritmaların Çalışma Mantığı
 
